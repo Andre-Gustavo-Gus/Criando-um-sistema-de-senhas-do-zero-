@@ -23,7 +23,7 @@ E, Então? Claro, vamos enfrentar muitos desafios ao decorrer dessa jornada, mas
 # DIA 01
 
 Um começo básico, porém cheio de energia! 
-Aqui veremos os primeiros passos para um grande projeto, você vera que os códigos seguintes iram usar este como base, mas vão sofrer mutações ☢ e ficarão ainda mais fortes 🌶 hehe
+Aqui veremos os primeiros passos para um grande projeto, você vera que os códigos seguintes irão usar este como base, mas vão sofrer mutações ☢ e ficarão ainda mais fortes 🌶 hehe
 
 [Ver detalhes do Dia 1](./DIA_01/README.md)
 
