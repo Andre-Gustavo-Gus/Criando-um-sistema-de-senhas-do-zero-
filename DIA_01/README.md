@@ -38,9 +38,9 @@ Mas qual é o nível de segurança disso?
 
 A resposta é bem simples, nenhum, existem erros de segurança básicas aqui, como senhas expostas sem hash **(Plain Text)**, a própria senha esta embutida no código fonte **(Hardcoded Credentials)**, não existem mecanismos que impedem o brute force, o que significa que é muito simples e fácil descobrir a senha do usuário e entrar rapidamente no sistema, este código apenas se preocupa em rodar ao invés da segurança de quem o usa.
 
-- **Confidencialidade:** ❌ (Péssima - senhas em texto puro)
+- **Confidencialidade:**  Péssima - senhas em texto puro
     
-- **Integridade:** ⚠️ (Média/Baixa - qualquer um com acesso ao código altera os dados)
+- **Integridade:**  Média/Baixa - qualquer um com acesso ao código altera os dados
     
-- **Disponibilidade:** ✅ (Alta - o código é simples e fácil de rodar)
+- **Disponibilidade:**  Alta - o código é simples e fácil de rodar
 
