@@ -40,7 +40,7 @@ A resposta é bem simples, nenhum, existem erros de segurança básicas aqui, co
 
 - **Confidencialidade:**  Péssima - senhas em texto puro
     
-- **Integridade:** Baixa - qualquer um com acesso ao código altera os dados
+- **Integridade:**  Baixa - qualquer um com acesso ao código altera os dados
     
-- **Disponibilidade:** Alta - o código é simples e fácil de rodar
+- **Disponibilidade:**  Alta - o código é simples e fácil de rodar
 
