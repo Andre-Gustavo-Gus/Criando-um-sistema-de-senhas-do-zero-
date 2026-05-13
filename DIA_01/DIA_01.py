@@ -3,7 +3,7 @@ banco_dados = {
 }
 
 while True:
-    print("Faça seu cadastro")
+    print("Faça seu login")
     user = input("Seu nome de usuario:")
     senha = input("Digite sua senha:")
 
