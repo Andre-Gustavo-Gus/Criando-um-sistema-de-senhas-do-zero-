@@ -59,7 +59,7 @@ while True:
 
     print(f"{60*"="}")
 
-    print("Qual das opções a baixo voce gostaria de executar?\n" \
+    print("Qual das opções abaixo voce gostaria de executar?\n" \
     "[1] Criar login\n[2] Logar ")
 
     opcoes = input("\ninsira aqui:")
